@@ -7,7 +7,7 @@
 enum Consts
 {
     DEF_STRING_COUNT = 100,
-    MAX_STRING_LEN = 100
+    MAX_STRING_LEN = 300
 };
 
 WINDOW *create_window(int width, int height)
